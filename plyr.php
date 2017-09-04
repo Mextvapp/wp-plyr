@@ -2,17 +2,17 @@
 
 /**
  *
- * @link              https://github.com/drrobotnik/plyr/
+ * @link              https://github.com/djavaweb/wp-plyr/
  * @since             1.0.0
  * @package           Plyr
  *
  * @wordpress-plugin
- * Plugin Name:       WP Plyr
- * Plugin URI:        https://github.com/drrobotnik/plyr/
+ * Plugin Name:       Better WP Plyr
+ * Plugin URI:        https://github.com/djavaweb/wp-plyr/
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:           1.0.1
- * Author:            Brandon Lavigne
- * Author URI:        https://github.com/drrobotnik/
+ * Author:            Djavaweb
+ * Author URI:        https://github.com/djavaweb/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       plyr
